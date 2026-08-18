@@ -10,4 +10,4 @@ function turnOff(){
 
 // call the function 
 
-turnOff();
+turnOff()
